@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "73a6",
+      "uname": "sahil",
+      "uemail": "sahilvaghela975@gmail.com",
+      "ucity": "Ahmedabad",
+      "umobile": "7621922538",
+      "uaddress": "Isanpur",
+      "ugender": "Male",
+      "uhobby": [
+        "Cricket"
+      ]
+    },
+    {
+      "id": "731e",
+      "uname": "ritesh",
+      "uemail": "riteshpatdia123@gmail.com",
+      "ucity": "Ahmedabad",
+      "umobile": "8460071505",
+      "uaddress": "Vatva",
+      "ugender": "Male",
+      "uhobby": [
+        "Cricket"
+      ]
+    },
+    {
+      "id": "786a",
+      "uname": "sufiyan",
+      "uemail": "sufiyanshaikh8200@gmail.com",
+      "ucity": "Surat",
+      "umobile": "8780943209",
+      "uaddress": "Isanpur",
+      "ugender": "Male",
+      "uhobby": [
+        "Cricket"
+      ]
+    },
+    {
+      "id": "c41e",
+      "uname": "admin",
+      "uemail": "abc111@gmail.com",
+      "ucity": "Surat",
+      "umobile": "0760098109",
+      "uaddress": "A\n2",
+      "ugender": "Male",
+      "uhobby": [
+        "Football"
+      ]
+    }
+  ]
+}
